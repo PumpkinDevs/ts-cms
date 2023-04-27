@@ -19,3 +19,6 @@ msgstr "Dashboard"
 
 msgid "Interface.Devices"
 msgstr "DEVICES"
+
+msgid "Interface.Contents"
+msgstr "EXPERIENCES"
