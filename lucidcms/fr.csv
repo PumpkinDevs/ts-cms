@@ -1,0 +1,135 @@
+Key,French
+Login.Title,Connexion
+Login.Account,Compte
+Login.Password,Mot de passe
+Login.LoginBtn,Connexion
+Interface.Dashboard,TABLEAU
+Interface.Devices,APPAREILS
+Interface.Contents,EXPÉRIENCES
+Interface.Analysis,ANALYSE
+Interface.Settings,RÉGLAGES
+Interface.SignOutBtn,SE DÉCONNECTER
+Interface.ExitBtn,Exit Application
+Interface.Notification,NOTIFICATION
+Interface.Syncing,SYNCHRONISATION
+Interface.Broadcast,PLAYLIST
+Interface.AvailableCredit,Available Credit
+Dashboard.Title,Tableau de bord
+Dashboard.BroadcastTitle,Playlist
+Dashboard.BroadcastInfo,Pas de diffusion de séquence
+Dashboard.Devices,Appareils
+Dashboard.Devices.Ready,Prêt
+Dashboard.Devices.More,Suite
+Dashboard.Contents,Experiences
+Dashboard.Contents.Count,Compter
+Dashboard.Contents.More,Suite
+Devices.Title,Appareils
+Devices.Online,En ligne
+Devices.Disconnect,Déconnecter
+Devices.Status,Statut
+Devices.DeviceName,Nom de l'appareil
+Devices.DeviceModel,Modèle d'appareil
+Devices.SerialNumber,Numéro de série
+Devices.HeasdsetBattery,Batterie de tête
+Devices.LeftControllerBattery,Contrôleur gauche
+Devices.RightControllerBattery,Contrôleur droit
+Device.Storage,Stockage
+Devices.Battery,Batterie
+Devices.StorageAll,Stockage disponible / Tout
+Devices.Offline,Hors ligne
+Devices.Playing,Actifs
+Devices.Normal,Normal
+Devices.Error,Erreur
+Devices.Scan.NoDeviceFound,Aucun appareil trouvé
+Devices.Scan.Scanning,Scan en cours
+Devices.Scan.Done,Scan terminé
+Devices.Scan.AddBtn,Ajouter
+Devices.InstallContentBtn,Expérience installée
+Devices.Install.Title,Expérience installée
+Devices.Control.Play,Joue
+Devices.Control.Pause,Pause
+Devices.Control.WarningInfo,Avertissement
+Devices.Control.Notification,Notification
+Devices.Control.Delete,Supprimer
+Devices.Control.Stop,Arrêt
+Devices.Control.Reboot,Redémarrer
+Contents.Title,Experience
+Contents.Information,Information
+Contents.Information.ProductionID,Production ID
+Contents.Information.Category,Catégorie
+Contents.Information.SupportDevices,Appareils compatibles
+Contents.Information.PricingStrategies,Catégories de prix
+Contents.Information.ReleaseDate,Date de sortie
+Contents.Information.ExpiredDate,Date d'expiration
+Contents.Information.CheckVersionBtn,Vérifier la mise à jour
+Contents.Information.CurrentVersion,Version actuelle
+Contents.Information.LastestVersion,Dernière version
+Contents.Information.LastestUpdate,Dernière mise à jour
+Contents.Information.Description,Description
+Contents.InstallBtn,Installer des appareils
+Contents.Install.InstallDevices,Installer des appareils
+Contents.Install.UninstallDevices,Désinstaller des appareils
+Contents.Install.SaveChangeBtn,Sauvegarder les modifications
+Contents.DownloadBtn,Download
+Contents.DeleteBtn,Delete
+Analysis.Title,Analyse
+Analysis.LogsBtn,Journaux
+Anaylsis.ViewTime,Afficher l'heure
+Analysis.ViewCount,Nombre de visionnages
+Analysis.StartTime,Heure de début
+Analysis.EndTime,Heure de fin
+Analysis.SendAnalysisBtn,Envoyer l'analyse
+Launcher.Launcher,Launcher
+Launcher.Connect,Se connecter au controller Unframed
+Launcher.Search,Recherche de l'appareil...
+Launcher.DeviceConnected,Appareil connecté: 
+Launcher.Settings,Paramètres
+Launcher.Name,Nom de l'appareil
+Launcher.ControllerIP,IP du controller
+Launcher.ControllerPort,Port du controller
+Launcher.LauncherIP,IP du launcher
+Launcher.LauncherPort,Port du launcher
+Launcher.AutoIP,Trouver automatiquement l'adresse IP
+Launcher.AutoConnect,Se connecter automatiquement au controller au démarrage 
+Launcher.Guide,Apprenez-en plus sur l'utilisation du launcher ici: 
+Settings.General,Général
+Settings.General.Preferences,Préférences
+Settings.General.Preferences.VRSpaceName,VR space name
+Settings.General.Preferences.VRSpaceNameInfo,VR space name for this controller.
+Settings.General.Preferences.CreateNewVRSpace,Créer un nouvel espace VR
+Settings.General.Preferences.CreateNewVRSpaceInfo,Créer un nouvel espace VR avec un nom différent
+Settings.General.Preferences.CreateNewVRSpaceBtn,CRÉER
+Settings.General.Preferences.Language,Langue
+Settings.General.Preferences.LanguageInfo,Changer les langues des interfaces du contrôleur
+Settings.General.Preferences.Theme,Style de thème
+Settings.General.Preferences.ThemeInfo,Settings.General.Preferences.VRSpaceNameInfo
+Settings.General.Connection,Lien
+Settings.General.Connection.AutoIp,IP du contrôleur automatique
+Settings.General.Connection.AutoIpInfo,Recherche automatique de l'adresse IP du contrôleur ou saisie d'une adresse IP personnalisée
+Settings.General.Connection.AutoPort,Port du contrôleur automatique
+Settings.General.Connection.AutoPortInfo,Utilisation automatique du port de contrôleur par défaut
+Settings.General.Connection.RestartHostBtn,Redémarrer l'hôte
+Settings.Account,Compte
+Settings.Account.Name,Nom
+Settings.Account.Email,E-mail
+Settings.Account.CompanyName,Nom de l'entreprise
+Settings.Account.Address,Adresse
+Settings.Account.UserID,User ID
+Settings.Account.ContactNo,N° de contact
+Settings.Account.AccessLevel,Niveau d'accès
+Settings.Account.Description,La description
+Settings.About,Plus d'informations
+Settings.About.Information,Information
+Settings.About.Automatic.AppUpdates,Mises à jour automatiques de l'application
+Settings.About.Automatic.AppUpdatesInfo,Mettre à jour les applications automatiquement
+Settings.About.Automatic.Version,Version
+Settings.About.Automatic.VersionInfo,Version actuelle du contrôleur
+Settings.About.Automatic.BugReport,Retour d'information
+Settings.About.Automatic.BugReportInfo,Envoyer les commentaires et les bogues du contrôleur :)
+Settings.About.Automatic.SendBugBtn,TOGGLE
+Settings.Developer,Développeur
+Settings.Developer.DebugMode,Mode débogage
+Settings.Developer.OpenConsoleLogs,Ouvrir les journaux de la console
+Settings.Developer.OpenConsoleLogsInfo,Ouvrir le panneau du journal de la console
+Settings.Developer.DatabaseMode,Mode base de données
+Settings.Developer.DatabaseModeInfo,Changer de mode de base de données différent

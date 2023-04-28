@@ -1,0 +1,135 @@
+Key,English
+Login.Title,Login
+Login.Account,Account
+Login.Password,Password
+Login.LoginBtn,Login
+Interface.Dashboard,DASHBOARD
+Interface.Devices,DEVICES
+Interface.Contents,EXPERIENCES
+Interface.Analysis,ANALYSIS
+Interface.Settings,SETTINGS
+Interface.SignOutBtn,SIGN OUT
+Interface.ExitBtn,Exit Application
+Interface.Notification,NOTIFICATION
+Interface.Syncing,SYNCING
+Interface.Broadcast,PLAYLIST
+Interface.AvailableCredit,Available Credit
+Dashboard.Title,Dashboard
+Dashboard.BroadcastTitle,Playlist
+Dashboard.BroadcastInfo,No Sequence broadcasting
+Dashboard.Devices,Devices
+Dashboard.Devices.Ready,READY
+Dashboard.Devices.More,MORE
+Dashboard.Contents,Experiences
+Dashboard.Contents.Count,COUNT
+Dashboard.Contents.More,MORE
+Devices.Title,Devices
+Devices.Online,Online
+Devices.Disconnect,Disconnect
+Devices.Status,Status
+Devices.DeviceName,Device Name
+Devices.DeviceModel,Device Model
+Devices.SerialNumber,Serial Number
+Devices.HeasdsetBattery,Head Battery
+Devices.LeftControllerBattery,Left Controller
+Devices.RightControllerBattery,Right Controller
+Device.Storage,Storage
+Devices.Battery,Battery
+Devices.StorageAll,Available Storage / All
+Devices.Offline,Offline
+Devices.Playing,Playing
+Devices.Normal,Normal
+Devices.Error,Error
+Devices.Scan.NoDeviceFound,No Device Found
+Devices.Scan.Scanning,Scanning
+Devices.Scan.Done,Scan Complete
+Devices.Scan.AddBtn,ADD
+Devices.InstallContentBtn,Installed Experience
+Devices.Install.Title,Installed Experience
+Devices.Control.Play,PLAY
+Devices.Control.Pause,PAUSE
+Devices.Control.WarningInfo,Warning Info
+Devices.Control.Notification,Notification
+Devices.Control.Delete,DELETE
+Devices.Control.Stop,STOP
+Devices.Control.Reboot,REBOOT
+Contents.Title,Experiences
+Contents.Information,Information
+Contents.Information.ProductionID,Production ID
+Contents.Information.Category,Category
+Contents.Information.SupportDevices,Supported Devices
+Contents.Information.PricingStrategies,Pricing Categories
+Contents.Information.ReleaseDate,Release Date
+Contents.Information.ExpiredDate,Expired Date
+Contents.Information.CheckVersionBtn,Check Update
+Contents.Information.CurrentVersion,Current Version
+Contents.Information.LastestVersion,Lastest Version
+Contents.Information.LastestUpdate,Lastest Update
+Contents.Information.Description,Description
+Contents.InstallBtn,Install Devices
+Contents.Install.InstallDevices,Install Devices
+Contents.Install.UninstallDevices,Uninstall Devices
+Contents.Install.SaveChangeBtn,Save Changes
+Contents.DownloadBtn,Download
+Contents.DeleteBtn,Delete
+Analysis.Title,Analysis
+Analysis.LogsBtn,Logs
+Anaylsis.ViewTime,View Time
+Analysis.ViewCount,View Count
+Analysis.StartTime,Start Time
+Analysis.EndTime,End Time
+Analysis.SendAnalysisBtn,Send Analysis
+Launcher.Launcher,Launcher
+Launcher.Connect,Connect to the Unframed Controller
+Launcher.Search,Searching device...
+Launcher.DeviceConnected,Connected device: 
+Launcher.Settings,Settings
+Launcher.Name,Device name
+Launcher.ControllerIP,Controller IP
+Launcher.ControllerPort,Controller port
+Launcher.LauncherIP,Launcher IP
+Launcher.LauncherPort,Launcher port
+Launcher.AutoIP,Automatically find the IP adress 
+Launcher.AutoConnect,Automatically connect to the controller on startup
+Launcher.Guide,Find more information on how to use the launcher here:
+Settings.General,General
+Settings.General.Preferences,Preferences
+Settings.General.Preferences.VRSpaceName,VR space name
+Settings.General.Preferences.VRSpaceNameInfo,VR space name for this controller.
+Settings.General.Preferences.CreateNewVRSpace,Create new VR space
+Settings.General.Preferences.CreateNewVRSpaceInfo,Create a new VR space with a different name
+Settings.General.Preferences.CreateNewVRSpaceBtn,CREATE
+Settings.General.Preferences.Language,Language
+Settings.General.Preferences.LanguageInfo,Switch the languages of controller interfaces
+Settings.General.Preferences.Theme,Theme Style
+Settings.General.Preferences.ThemeInfo,Change Controller Theme Interfaces Styles
+Settings.General.Connection,Connection
+Settings.General.Connection.AutoIp,Auto Controller Ip
+Settings.General.Connection.AutoIpInfo,Auto Find Controller Ip or Enter Custom Ip
+Settings.General.Connection.AutoPort,Auto Controller Port
+Settings.General.Connection.AutoPortInfo,Auto using default controller port
+Settings.General.Connection.RestartHostBtn,Restart Host
+Settings.Account,Account
+Settings.Account.Name,Name
+Settings.Account.Email,Email
+Settings.Account.CompanyName,Company Name
+Settings.Account.Address,Address
+Settings.Account.UserID,User ID
+Settings.Account.ContactNo,Contact No
+Settings.Account.AccessLevel,Access Level
+Settings.Account.Description,Description
+Settings.About,About
+Settings.About.Information,Information
+Settings.About.Automatic.AppUpdates,Automatic App Updates
+Settings.About.Automatic.AppUpdatesInfo,Update apps automatically
+Settings.About.Automatic.Version,Version
+Settings.About.Automatic.VersionInfo,Current Controller Version
+Settings.About.Automatic.BugReport,Feedback
+Settings.About.Automatic.BugReportInfo,Send Controller Feedback And Bug :)
+Settings.About.Automatic.SendBugBtn,TOGGLE
+Settings.Developer,Developer
+Settings.Developer.DebugMode,Debug Mode
+Settings.Developer.OpenConsoleLogs,Open Console Logs
+Settings.Developer.OpenConsoleLogsInfo,Open Console Log Panel
+Settings.Developer.DatabaseMode,Database Mode
+Settings.Developer.DatabaseModeInfo,Switch Different Database Mode
